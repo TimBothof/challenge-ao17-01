@@ -1,0 +1,96 @@
+body {
+  background-image: url("Wood.jpg");
+}
+
+header {
+  margin: 0px auto;
+  margin-bottom: 0px;
+}
+
+#header {
+margin-left: 680px;
+width: 100px;
+height: 100px;
+}
+
+article {
+    margin-left:450px;
+    width: 650px;
+    height:800px;
+    margin-top: 0px;
+    background-color: white;
+    font-family: Arial;
+    color: black;
+    font-size: 15px;
+    opacity: 0.8;
+}
+
+nav {
+  height:42px;
+  margin-top:10px;
+  width: 650px;
+  margin: 0px auto;
+  margin-left: 450px;
+  font-size: 15px;
+  background-color: #8B4513;
+}
+
+nav ul {
+list-style:none;
+}
+
+nav ul li a{
+  float:left;
+  text-decoration:none;
+  padding:0px 12px;
+  color: white;
+  text-align:left;
+  line-height:42px;
+  height:42px;
+}
+
+nav a:hover {
+text-decoration: underline;
+}
+
+footer {
+ background-color: #8B4513;
+ margin-left:450px;
+ width: 650px;
+ margin-top: -15px;
+ height: 40px;
+ display: table;
+ text-align: center;
+font-size: 14px;
+color: white
+}
+
+#banner {
+margin: 15px;
+width: 100%;
+height: 200px;
+}
+
+
+
+p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+ul {
+list-style: none;
+}
+
+#tekst {
+  margin-top: 15px;
+  font-family: Tahoma;
+  margin-left: 210px;
+  margin-right: auto;
+}
+
+#map {
+  width: 460px;
+  height: 250px;
+  margin-left: 10px;
+}
